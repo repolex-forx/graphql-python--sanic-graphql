@@ -1,0 +1,11 @@
+{
+  "org": "graphql-python",
+  "repo": "sanic-graphql",
+  "versions": [
+    {
+      "commit": "9eb1b0b4d4d8411833f3502a1bb659cf6ea58f88",
+      "tag": "",
+      "parsed_at": "2026-10-20T23:37:29.523698+00:00"
+    }
+  ]
+}
