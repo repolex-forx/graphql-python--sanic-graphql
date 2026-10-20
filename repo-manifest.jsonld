@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/sanic-graphql/commit/9eb1b0b4d4d8411833f3502a1bb659cf6ea58f88",
       "git:hexsha": "9eb1b0b4d4d8411833f3502a1bb659cf6ea58f88",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/graphql-python/sanic-graphql/commit/93c99680648e859020408ee4a06b1ea09b54979b",
